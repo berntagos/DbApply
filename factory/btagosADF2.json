@@ -1,0 +1,9 @@
+{
+	"name": "btagosADF2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0f5819ec-8c1e-4b4e-87b9-5ebac4df8219",
+		"tenantId": "e314eb52-c3bf-45bd-8dfd-fa1d5dda5207"
+	}
+}
